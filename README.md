@@ -1,4 +1,4 @@
-# Bot ›› [Movie Search bot](https://t.me/Search010Bot)
+# Bot ›› [Movie Search bot](https://t.me/itz_mrshyam)
 
 ## Added Features
 * Imdb posters for autofilter.
@@ -13,7 +13,7 @@
 ## Installation
 
 ### Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aadhi000/Movies-Search-Bot-MW)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itzmrshyam/Movies-Search-Bot-MW)
 ### Hard Way
 
 ```bash
@@ -80,13 +80,13 @@ logger - Get log file
 
 ## Thanks to 
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
-* Original [Repo](https://github.com/Aadhi000/Movies-Search-Bot-MW)
+* Original [Repo](https://github.com/itzmrshyam/Movies-Search-Bot-MW)
 
 
 ## Support
-Contact Me On [Telegram](https://t.me/BKC0001)
+Contact Me On [Telegram](https://t.me/itz_mrshyam)
 
-[Update Channel](https://t.me/Minnal_Murali2021HD)
+[Update Channel](https://telegram.me/m_s_p_o_123)
 
 ## License
 Code released under [The GNU General Public License](LICENSE).
